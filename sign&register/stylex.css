@@ -14,21 +14,21 @@
 }
 .form-box
 {
-    width:360px;
-    height:420px;
+    width:340px;
+    height:400px;
     position: relative;
-    margin: 6% auto;
+    margin: 100px 700px;
     background:rgb(255, 255, 255) ;
     padding:5px ;
     overflow: hidden;
 }
 .button-box
 {
-    width: 220px;
+    width: 240px;
     margin:35px auto;
     position: relative;
     box-shadow: 0 0 20px 9px #ff61241f;
-    border-radius: 30px;
+    border-radius: 50px;
 } 
 .toggle-btn
 {
@@ -44,12 +44,18 @@
     top: 0;
     left: 0;
     position: absolute;
-    width:110px;
+    width:130px;
     height:100%;
     background:linear-gradient(to right,#599c62,#dcdae2);
     border-radius: 30px;
     transition: .5s;
 }
+.textdats
+{
+
+
+}
+
 .social-icons
 {
     margin:5px auto;

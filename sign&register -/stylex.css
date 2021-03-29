@@ -10,14 +10,23 @@
     background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(background.jpg);
     background-position: center;
     background-size: cover;
-    position:absolute;    
+    position:absolute;  
+}
+.site-title
+{
+padding-left: 130px;
+padding-top: 300px;
+text-align: left;
+color:#fff;
+font-size: 32px;
+font-style:unset;
 }
 .form-box
 {
     width:340px;
     height:400px;
     position: relative;
-    margin: 100px 700px;
+    margin: -270px 750px;
     background:rgb(255, 255, 255) ;
     padding:5px ;
     overflow: hidden;

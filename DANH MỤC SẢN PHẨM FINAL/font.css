@@ -28,7 +28,7 @@ a{
     color: #ffffff;
 }
 .icons{
-    margin-right: 50px;
+    margin-right: 0px;
 }
 .title{
     margin-left: 50px;
@@ -57,37 +57,27 @@ a{
 
 
 
-
-
-
-
-
 /*==Footer==*/
-.footer{
-   background: #649146;
-   color:#ffffff;
-   font-size: 14px;
-   padding: 60px 0 20px;
-   display: flex;
-   align-items: center;
-
-  
-  
-  
-  
-  
-  
-  
-   display: flex;
-   align-items: center;
-   padding: 20px;
-   background-color:  #649146;
-
-
-
+footer{
+	width: 100%;
+	background-color: #649146;
+	height: 100px;
+	line-height: 40px;
+	text-align:left;
+	color:#fff;
+	font-size:14;
+	margin-right::0px;
 }
-.aa{
-    flex:1;
-    text-align:left;
+footer .menu ul{
+	list-style: none;
 }
-
+footer .menu  ul li {
+	float: right;
+	line-height: 35px;
+	padding: 0 15px;	
+}
+  
+  
+  
+  
+  

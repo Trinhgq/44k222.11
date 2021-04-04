@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.menu{
+    display: flex;
+    align-items: center;
+    background-color: #619461;
+    padding: 10px;
+    color: #fff;
+}
+.logo{
+    display: inline-block;
+    margin-left: 70px; 
+}
+nav{
+    flex: 1;
+    text-align: right;
+}
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 30px;
+    
+}
+.icons{
+    display: inline-block;
+    margin-right: 70px;
+}
+
+
+.chitiet{
+    display: flex;
+    align-items: center;
+    margin: 40px 0 50px 40px;
+}
+.anh{
+    display: flex;
+    height: 500px;
+    width: 600px;
+    
+}
+.input-grp{
+    width: 180px;
+    display: inline-block;
+}
+.form-control{
+    font-size: 12px;
+    border-radius: 0;
+    color: #fff;
+    background: transparent;
+    box-shadow: none;
+}
+
+.anh img{
+    padding: 0;
+}
+.anh{
+    padding: 20px;
+}
+.col-2{
+    padding: 20px;
+}
+
+
+
+.similar {
+    margin-left: 80px;
+    font-size: 14px;
+}
+.row .col-3 .img{
+    padding: 0;
+    
+}
+
+
+
+
+
+
+
+
+
